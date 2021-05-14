@@ -22,7 +22,7 @@
 ### Education
 
 ---
-+ Diploma : MOllasadra high school
++ Diploma : Mollasadra high school
 + Bachelor of science : IT Engineering(ongoing)
 _ payam Noor University of Shahr e ray
 
