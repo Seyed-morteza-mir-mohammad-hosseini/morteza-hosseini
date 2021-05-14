@@ -23,7 +23,8 @@
 
 ---
 + Diploma : Mollasadra high school
-+ Bachelor of science : IT Engineering(ongoing)
++ Bachelor of science : Computer Engineering(ongoing)
++ Bachelor of science : Solid state Physics
 _ payam Noor University of Shahr e ray
 
 ### language
