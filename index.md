@@ -1,30 +1,30 @@
 
-### Anahita Taheri
+### Morteza mir mohammad hosseini
 
 
 ### Personal informations
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
-+ I am a trader and IT engineering student
++ name: Morteza
++ last name : Mir mohammad hosseini
++ Date of birth : 1991/10/18
++ I am IT engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
++ ICDL
 + translating
 
 
 ### Education
 
 ---
-+ Diploma : Aeen Tarbiat high school
-+ Bachelor of science : IT Engineering
-_ payam Noor University of North 
++ Diploma : MOllasadra high school
++ Bachelor of science : IT Engineering(ongoing)
+_ payam Noor University of Shahr e ray
 
 ### language
 
@@ -35,15 +35,16 @@ _ payam Noor University of North
 ### Favorites
 
 ---
-+ Trade
++ sport
 + Studing historical books
 + travel 
-+ playing volleyball
++ discussion on any subject
 
 ### working Experience
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ I am working in snapp part-time...
++ food industry some time ego...
 
 
 
